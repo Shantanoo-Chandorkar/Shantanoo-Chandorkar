@@ -4,7 +4,7 @@ I'm a software developer building scalable web applications with React, Next.js,
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,php,laravel,tailwind,mysql,mongo,git,jquery,wordpress,html,css,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,php,laravel,tailwind,mysql,mongo,redis,git,jquery,wordpress,html,css)](https://skillicons.dev)
 
 ## GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shantanoo-Chandorkar&theme=tokyonight)
@@ -28,8 +28,8 @@ I'm a software developer building scalable web applications with React, Next.js,
 ## Connect
 
 - **Portfolio:** [Live Projects & Experiments](https://shantanoo-portfolio.netlify.app/)
-- **LinkedIn:** [linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/shantanoo-chandorkar)
-- **Email:** [your.email@example.com](mailto:shantanoochandorkar@gmail.com)
+- **LinkedIn:** [linkedin.com/in/shantanoo-chandorkar](https://www.linkedin.com/in/shantanoo-chandorkar)
+- **Email:** [shantanoochandorkar@gmail.com](mailto:shantanoochandorkar@gmail.com)
 
 ## Contributions
 - CartFlows WordPress plugin
