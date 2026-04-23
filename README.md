@@ -20,10 +20,10 @@ I'm a software developer building scalable web applications with React, Next.js,
 
 ## Certifications
 
-[![HackerRank Problem Solving](https://img.shields.io/badge/HackerRank-Problem%20Solving-2EC866?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/certificates/e838eae68288)
-[![HackerRank JavaScript](https://img.shields.io/badge/HackerRank-JavaScript-2EC866?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/certificates/2a1121e2a4c7)
-[![HackerRank SQL Intermediate](https://img.shields.io/badge/HackerRank-SQL%20Intermediate-2EC866?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/certificates/fa9ce4d10683)
-[![HackerRank SQL Basics](https://img.shields.io/badge/HackerRank-SQL%20Basics-2EC866?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/certificates/3a12aab07415)
+[![HackerRank Problem Solving](https://img.shields.io/badge/HackerRank-Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/e838eae68288)
+[![HackerRank JavaScript](https://img.shields.io/badge/HackerRank-JavaScript-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/2a1121e2a4c7)
+[![HackerRank SQL Intermediate](https://img.shields.io/badge/HackerRank-SQL%20Intermediate-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/fa9ce4d10683)
+[![HackerRank SQL Basics](https://img.shields.io/badge/HackerRank-SQL%20Basics-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/3a12aab07415)
 
 ## Connect
 
