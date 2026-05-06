@@ -27,7 +27,7 @@ I'm a software developer building scalable web applications with React, Next.js,
 
 ## Connect
 
-- **Portfolio:** [Live Projects & Experiments](https://shantanoo-portfolio.netlify.app/)
+- **Portfolio:** [Live Projects & Experiments](https://builtbyshantanoo.netlify.app/)
 - **LinkedIn:** [linkedin.com/in/shantanoo-chandorkar](https://www.linkedin.com/in/shantanoo-chandorkar)
 - **Email:** [shantanoochandorkar@gmail.com](mailto:shantanoochandorkar@gmail.com)
 
