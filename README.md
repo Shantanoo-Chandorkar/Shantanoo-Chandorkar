@@ -13,10 +13,10 @@ I'm a software developer building scalable web applications with React, Next.js,
 
 ## Projects
 
-- **[Webhook Platform](https://github.com/Shantanoo-Chandorkar/webhook-platform)** - Real-time webhook debugging and observability service built with Next.js and PostgreSQL
-- **[Task Tracker](https://github.com/Shantanoo-Chandorkar/task-tracker)** - Full-stack task management application with modern tooling
-- **[InterPrep](https://github.com/Shantanoo-Chandorkar/learn-react-project)** - Interview Preparation kit for last-minute revisions. 
-- **[Portfolio](https://github.com/Shantanoo-Chandorkar/shantanoo-portfolio-draft)** - Personal portfolio showcasing projects and technical work
+- **[Webhook Platform](https://github.com/Shantanoo-Chandorkar/webhook-platform)** - Real-time webhook debugging and observability service built with Next.js, MongoDB, and Redis.
+- **[Task Tracker](https://github.com/Shantanoo-Chandorkar/task-tracker)** - Full-stack task management application with modern tooling.
+- **[EscapeTheSurface](https://github.com/Shantanoo-Chandorkar/learn-react-project)** - Interview Preparation kit for last-minute revisions. 
+- **[Portfolio](https://github.com/Shantanoo-Chandorkar/shantanoo-portfolio)** - Personal portfolio showcasing projects and technical work.
 
 ## Certifications
 
