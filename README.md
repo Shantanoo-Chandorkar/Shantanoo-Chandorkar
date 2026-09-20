@@ -33,7 +33,7 @@ I'm a software developer building scalable web applications with React, Next.js,
 
 ## Contributions
 - CartFlows WordPress plugin
-- Keyideas Connect for Trello
-- Keyideas Connect for Xero
+- Keyideas Connect for Trello WordpRess plugin
+- Keyideas Connect for Xero WordPress plugin
 - Responsive Blocks WordPress plugin
 - Responsive Addons for Elementor WordPress plugin
