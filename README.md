@@ -15,7 +15,7 @@ I'm a software developer building scalable web applications with React, Next.js,
 
 - **[Webhook Platform](https://github.com/Shantanoo-Chandorkar/webhook-platform)** - Real-time webhook debugging and observability service built with Next.js, MongoDB, and Redis.
 - **[Task Tracker](https://github.com/Shantanoo-Chandorkar/task-tracker)** - Full-stack task management application with modern tooling.
-- **[EscapeTheSurface](https://github.com/Shantanoo-Chandorkar/learn-react-project)** - Interview Preparation kit for last-minute revisions. 
+- **[EscapeTheSurface](https://github.com/Shantanoo-Chandorkar/escape-the-surface)** - Interview Preparation kit for last-minute revisions. 
 - **[TypeForge](https://github.com/Shantanoo-Chandorkar/type-forge)** - Typing test made difficult.
 
 ## Certifications
