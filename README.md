@@ -4,7 +4,7 @@ I'm a software developer building scalable web applications with React, Next.js,
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,php,laravel,tailwind,mysql,mongo,redis,git,jquery,wordpress,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,php,laravel,tailwind,mysql,mongo,supabase,redis,git,jquery,wordpress,html,css)](https://skillicons.dev)
 
 ## GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shantanoo-Chandorkar&theme=gruvbox)
