@@ -8,8 +8,8 @@ I'm a software developer building scalable web applications with React, Next.js,
 
 ## GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shantanoo-Chandorkar&theme=gruvbox)
-![Stats](https://github-readme-stats.vercel.app/api?username=Shantanoo-Chandorkar&show_icons=true&theme=merko)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanoo-Chandorkar&layout=compact&theme=nightowl)
+![Stats](https://github-stats-extended.vercel.app/api?username=Shantanoo-Chandorkar&show_icons=true&theme=merko)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Shantanoo-Chandorkar&layout=compact&theme=nightowl)
 
 ## Projects
 
